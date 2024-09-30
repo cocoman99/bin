@@ -1,4 +1,4 @@
-## bin repo
+## bin
 That repository can contain files that are uncompleted or have bugs. I have created it (and this README too) for learning, testing purposes and playing with code. This is "working" repo. Enjoy but at your own risk, ha !
 
 ## Plan is to play with:
