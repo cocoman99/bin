@@ -7,6 +7,7 @@ That repository can contain files that are uncompleted or have bugs. I have crea
 - Ownership system
 - Common collections
 - Handling errors
+- Tests
 - and what next? We will see...
 
 ## Author:
